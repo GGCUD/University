@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{43ec351c-bfc7-4444-a9bd-e37fd54e09c6}</ProjectGuid>
+    <ProjectGuid>{7e34abc6-d796-4512-b664-153132693a04}</ProjectGuid>
     <RootNamespace>Laba1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -127,17 +127,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="child.cpp" />
-    <ClCompile Include="child2.cpp" />
-    <ClCompile Include="child3.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="queue.cpp" />
+    <ClCompile Include="Hero.cpp" />
+    <ClCompile Include="Keeper.cpp" />
+    <ClCompile Include="Laba1++.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Monster.cpp" />
+    <ClCompile Include="Villain.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="child.h" />
-    <ClInclude Include="child2.h" />
-    <ClInclude Include="child3.h" />
-    <ClInclude Include="queue.h" />
+    <ClInclude Include="Creature.h" />
+    <ClInclude Include="Hero.h" />
+    <ClInclude Include="Keeper.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Monster.h" />
+    <ClInclude Include="Villain.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="book.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

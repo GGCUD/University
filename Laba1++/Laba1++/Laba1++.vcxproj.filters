@@ -15,34 +15,48 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="Laba1++.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="queue.cpp">
+    <ClCompile Include="Keeper.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="child.cpp">
+    <ClCompile Include="Menu.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="child2.cpp">
+    <ClCompile Include="Hero.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="child3.cpp">
+    <ClCompile Include="Villain.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="child.h">
-      <Filter>Файлы заголовков</Filter>
+    <ClInclude Include="Creature.h">
+      <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="queue.h">
-      <Filter>Файлы заголовков</Filter>
+    <ClInclude Include="Keeper.h">
+      <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="child2.h">
-      <Filter>Файлы заголовков</Filter>
+    <ClInclude Include="Menu.h">
+      <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="child3.h">
-      <Filter>Файлы заголовков</Filter>
+    <ClInclude Include="Hero.h">
+      <Filter>Исходные файлы</Filter>
     </ClInclude>
+    <ClInclude Include="Villain.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="book.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
   </ItemGroup>
 </Project>
