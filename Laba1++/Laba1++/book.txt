@@ -1,0 +1,14 @@
+3
+2
+ Bob
+ Bow
+ Murder
+ Rohan
+ Rifing
+1
+ Aragorn
+ Sword
+ Riding
+3
+ Shreiker
+ The Shrieker has no legs, arms, or eyes, but its "body" consists of a large number of holes from which shrill sounds are emitted
